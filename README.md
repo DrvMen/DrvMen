@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrvMen
-- 👀 I’m interested in web development 
-- 🌱 I’m currently learning full stack 
+- 👀 I’m interested in web development and AI ML
+- 🌱 I’m currently learning full stack and ML
 - 💞️ I’m looking to collaborate on LinkedIn,Github
 - 😄 Pronouns: he/him
 
